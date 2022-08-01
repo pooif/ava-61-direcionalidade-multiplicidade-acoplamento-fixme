@@ -1,6 +1,6 @@
 # 6.1 // Direcionalidade, Multiplicidade e Acoplamento // FIXME
 
-Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <>
+Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <https://classroom.github.com/a/Mj2t0Hq7>
 
 Implementar respeitando os fundamentos de Orientação a Objetos.
 
